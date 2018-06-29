@@ -16,17 +16,17 @@
 ---
 
 ## Functions
-![Login Page](https://github.com/openhack-redfan/redfan-UI/assets/login.png)
+![Login Page](https://github.com/openhack-redfan/redfan-UI/login.png)
 
-![Channel Info: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/assets/channel.png)
+![Channel Info: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/channel.png)
 
-![Num of Fan: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/assets/fan.png)
+![Num of Fan: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/fan.png)
 
-![Total View Count: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/assets/view.png)
+![Total View Count: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/view.png)
 
-![Gender Ratio: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/assets/gender.png)
+![Gender Ratio: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/gender.png)
 
-![Comment Page: Comment Info Per Video](https://github.com/openhack-redfan/redfan-UI/assets/comment.png)
+![Comment Page: Comment Info Per Video](https://github.com/openhack-redfan/redfan-UI/comment.png)
 
 
 
