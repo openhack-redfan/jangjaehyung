@@ -1,0 +1,2 @@
+#E25757 배경
+폰트는 godoRounded L 입니다
