@@ -1,2 +1,4 @@
 #585858 폰트
 NanumSquareRound Regular
+#F3F5F7 맨뒤배경
+#C9C9C9 테두리색
