@@ -1,4 +1,6 @@
-#585858 폰트
+#585858 댓글폰트 색상(폰트사이즈:52)
 NanumSquareRound Regular
 #F3F5F7 맨뒤배경
 #C9C9C9 테두리색
+
+#C4C4C4 아이디 (폰트size:50)
