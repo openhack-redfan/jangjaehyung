@@ -1,9 +1,9 @@
-## 빨간FAN (RED FAN)
+# 빨간FAN (RED FAN)
 * Comment Analysis Android Application for Youtube Creator
 
 ---
 
-# Intro
+## Intro
 * Nowadays Youtube is the most popular video streaming flatform in the world, mostly in Korea.
 * In Korea, 10s' favorite mobile application is Youtube, among popular social apps like Facebook, KakaoTalk, etc.
 * Youtube market is extremely growing with billions fans.
@@ -15,7 +15,7 @@
 
 ---
 
-# Functions
+## Functions
 ![Login Page](https://github.com/openhack-redfan/redfan-UI/assets/login.png)
 
 ![Channel Info: Channel Info Data](https://github.com/openhack-redfan/redfan-UI/assets/channel.png)
@@ -30,17 +30,17 @@
 
 
 
-# Development
+## Development
 * Android: Native Java base
 * Server: Node.js, AWS, MySQL
 * Crawler, Analyzer: Node.js, Youtube Data API v3, Google Sentimental API
 
 ---
 
-# How to Use APP
+## How to Use APP
 * Download & Install from Android Market!(not now..)
 
 --- 
 
-# Contact
+## Contact
 * Mail: mok05289@korea.ac.kr
